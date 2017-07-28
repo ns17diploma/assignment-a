@@ -1,0 +1,23 @@
+#word5 h3{
+	font-size: 20px;
+	width: 810px;
+	line-height: 1.7em;
+	font-family: cursive;
+	color: #2c333d;
+	position: relative;
+	left: 120px;
+	top: -300px;
+	float: right;
+
+	
+}
+#mid05{
+	width: 1200px;
+	margin: auto;
+}
+#pic5{
+	width: 600px;
+	position: relative;
+	bottom: -100px;
+	right: -40px;
+}

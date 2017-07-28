@@ -1,0 +1,26 @@
+#word3 h3{
+	font-size: 20px;
+	width: 810px;
+	line-height: 1.7em;
+	font-family: cursive;
+	color: #2c333d;
+	position: relative;
+	right: -80px;
+	top: 100px;
+	float: left;
+	
+}
+#mid03{
+	width: 900px;
+	
+}
+#pic3{
+	height: 460px;
+	width: 590px;
+	position: relative;
+	right: -120px;
+	bottom: -170px;
+}
+#sec01 a{
+	color: #8851ba;
+}
