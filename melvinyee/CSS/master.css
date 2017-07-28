@@ -1,0 +1,38 @@
+body{
+	background-image: url("download.jpg");
+}
+.clear{
+	clear: both;
+}
+/**
+	*sec01
+**/
+#sec01{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: grey;
+	width: 100%;
+}
+#sec01 div{
+
+	text-align: center;
+}
+#sec01 button{
+	
+	background-color:grey;
+	margin-right: 100px;
+	color: black;
+	font-size: 1.5em;
+}
+/**
+	*sec02
+**/
+#sec02 {
+	text-align: center;
+}
+#sec02 h1{
+	font-size: 5em;
+}
+/**
+	*sec03
+**/
