@@ -1,0 +1,72 @@
+body {
+	margin: 0;
+}
+
+#sec01{
+	width: 100%;
+	margin: auto;
+	padding-bottom: 100%;
+	padding-top: 10px;
+	background-color: black;
+	color: white;
+}
+
+
+.sec01-heading h1{
+	font-size: 36pt;
+	font-weight: bold;
+	font-style: italic;
+	font-family: serif;
+	text-align: center;
+}
+
+.sec01-button{
+	text-align: center;
+}
+
+.sec01-button a{
+	color: black;
+}
+
+#sec01 div button{
+	width: 130px;
+	height: 40px;
+	margin-right: 10px;
+	border: 1px solid gray;
+	border-radius: 6px;
+	background-color: white;
+	color: black;
+	font-size: 15px;
+
+}
+
+.sec01-title{
+	width: 960px;
+	margin: auto;
+	margin-top: 100px;
+	border: 1px solid white;
+	padding: 30px 30px 30px 30px;
+	border-radius: 10px;
+}
+
+.sec01-title h1{
+	font-size: 36pt;
+	font-style: italic;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.sec01-title h3{
+	font-size: 14pt;
+	font-family: sans-serif;
+}
+
+.sec01-title p{
+	font-size: 14pt;
+	font-family: sans-serif;
+
+}
+
+.button{
+	margin-top: 40px;
+}
