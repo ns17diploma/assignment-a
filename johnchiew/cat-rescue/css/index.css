@@ -1,0 +1,23 @@
+.content-1{
+	text-align: left;
+	padding: 50px 0px;
+	background: rgba(0,0,0,.3)
+}
+.content-1 p{
+	font-size: 14pt;
+	font-family: sans-serif;
+	text-align: left;
+	padding: 30px 0px;
+	color: white;
+	width: 50%;
+	margin: auto;
+	border-bottom: 5px dotted white;
+}
+.content-1 h1{
+	width: 50%;
+	margin: 0 auto;
+}
+.images img{
+	width: 300px;
+	box-shadow: 0px 2px black;
+}

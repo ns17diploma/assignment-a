@@ -1,0 +1,31 @@
+.container{
+	margin: auto;
+	width:85% ;
+	font-family: sans-serif;
+	font-size: 14pt;
+	text-align: left;
+}
+#heading{
+	text-align: center;
+	font-family:serif;
+	font-size: 36pt;
+	font-weight: bold;
+	font-style: italic;
+}
+body{
+	background: url(../images/001.jpg)center;
+	background-size: 100%;
+	max-height:100% ;	
+	color: white;
+}
+
+#sec1 .container nav a{
+	margin-right: 134px;
+	color: white;
+
+}
+.icon-last{
+	float: right;
+	color: white;
+	margin:14px 20px 31px 1px;
+}
