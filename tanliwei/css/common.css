@@ -1,0 +1,12 @@
+/*/commoncss/*/
+.clear{
+	clear: both;
+}
+.con01{
+	margin: auto;
+	width: 85%;
+}
+.floatleft{
+	float: left;
+	width: 50%;
+}

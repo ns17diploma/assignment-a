@@ -1,0 +1,100 @@
+/*sec01*/
+#sec01{
+	background: #222 linear-gradient(to right,purple 0%, pink 100%);
+	height: 100%;
+}
+#sec01 h1{
+	color:white;
+	font-style: italic;
+	font-size: 85px;
+	padding-top: 300px;
+	text-align: center;
+}
+#sec01 h2{
+	color:white;
+	font-style: italic;
+}
+#sec01 h3{
+	color:white;
+	font-style: italic;
+}
+#sec01 h4{
+	color:white;
+	font-style: italic;
+	padding-top: -10px;
+}
+.fontsize{
+	font-size: 40px;
+}
+.fontsize2{
+	padding-top: 150px;
+}
+.h3-detail{
+	padding-top: 70px;
+	text-align: center;
+}
+.absolute{
+	position: absolute;
+}
+.navigation{
+	color:white;
+	font-size: 20px;
+	padding: 10px;
+}
+.layout-adjust{
+	margin-top: -400px;
+}
+.floatright{
+	float: right;
+}
+.adjust{
+	margin-top: -400px;
+}
+.padding{
+	padding-top: 180px;
+}
+.padding-cat{
+	padding-top: 150px;
+}
+.sponsor{
+	padding-top:0px;
+}
+.layout-adjust1{
+	margin-top: -580px;
+}
+.layout-adjust2{
+	margin-top: -508px;
+	margin-left:200px;
+}
+.images-cat1{
+	width: 200px;
+}
+.images-cat2{
+	width: 400px;
+	margin-left: 400px;
+	position: absolute;
+}
+.images-cat3{
+	width: 200px;
+	margin-left: 100px;
+	margin-top: -300px;
+	position: absolute;
+}
+.images-cat4{
+	width: 200px;
+	margin-left: 900px;
+	position: absolute;
+}
+.images-cat5{
+	width: 150px;
+	margin-left: 100px;
+}
+.images-cat6{
+	width: 300px;
+}
+.images-cat8{
+	width: 200px;
+	margin-left: 500px;
+	margin-top: -150px;
+	position: absolute; 
+}
