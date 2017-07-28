@@ -1,0 +1,36 @@
+.heading{
+	font-family: 'Italic', Serif;
+	font-weight: bold;
+	font-size: 36pt;
+	text-align: center;
+}
+
+.body-text{
+	font-family: sans-serif;
+	font-size: 14pt;
+	text-align: left;
+	padding-top: 20px;
+}
+
+.reach{
+	color: red !important;
+}
+
+img.w-650{
+	width: 650px;
+}
+
+.content-slide{
+	padding-top: 120px;
+}
+
+.content-slide img{
+	padding-left: 250px;
+}
+
+.title{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 20px;
+	color: red;
+}
