@@ -1,12 +1,22 @@
 /*/commoncss/*/
+body{
+	background-color: black;
+}
 .clear{
 	clear: both;
 }
 .con01{
 	margin: auto;
-	width: 85%;
+	width: 1300px;
 }
 .floatleft{
 	float: left;
 	width: 50%;
 }
+.navi-size{
+	font-size: 25px;
+}
+.navi-size1{
+	font-size: 20px;
+}
+

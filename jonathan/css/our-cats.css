@@ -1,0 +1,41 @@
+#word4 h3{
+	font-size: 20px;
+	width: 780px;
+	line-height: 1.7em;
+	font-family: cursive;
+	color: #2c333d;
+	position: relative;
+	right: 10px;
+	top: 200px;
+	float: right;
+	
+	
+}
+#word4{
+	position: relative;
+	right: -300px;
+}
+#mid04{
+	width: 1200px;
+
+}
+#pic4{
+	width: 650px;
+	position: relative;
+	top: -200px;
+	right: -10px;
+
+}
+#pic6{
+	width: 600px;
+	position: relative;
+	right: 100px;
+	bottom: 470px;
+}
+#pic7{
+	position: relative;
+	top: -700px;
+}
+#sec01 a{
+	color:#8851ba;
+}
