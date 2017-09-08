@@ -1,0 +1,7 @@
+#bgCat {
+	position: absolute;
+	width: 600px;
+	z-index: -1;
+	left: 17%;
+	opacity: 0.5;
+}
