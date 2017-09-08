@@ -11,6 +11,12 @@
 
 	
 }
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
+}
 #mid05{
 	width: 1200px;
 	margin: auto;
