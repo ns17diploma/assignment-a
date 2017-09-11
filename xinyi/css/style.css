@@ -7,28 +7,22 @@ body{
 	margin-top: 80px;
 	height: 600px;
 }
-.img3{
-	width: 200px;
-	float: right;
-	margin-right: 50px;
-}
 #section1{
 	margin-left: 480px;
-	margin-top: 50px;
+	margin-top: 80px;
 }
-#section1 button{
+#section1 p{
  	display: inline;
- 	padding: 10px 30px;
-	background-color: pink;
-	border-radius:5px;
-	border: 0;
+ 	padding: 20px 20px;
+ 	font-size: 14pt;
+ 	font-family: arial, san serif;
 }
-#section1 button a{
+#section1 p a{
 	text-decoration: none;
 	color: white;
 }
 #sec{
-	margin-top: 50px;
+	margin-top: 100px;
 	margin-left: 500px;
 }
 #sec h1{
@@ -39,17 +33,26 @@ body{
 #sec h1 a{
 	text-decoration: none;
 	color: white;
+	font-style: serif;
+	font-family: bold;
 }
-#section2 p{
-	text-align: center;
-	margin-top: 60px;
-	font-size: 14pt;
- 	font-family: arial, san serif;
+#section2{
+	margin-left: 370px;
 }
-
+#section2 button{
+	padding: 15px 50px;
+	border: 0;
+	border-radius: 5px;
+	background-color: pink;
+	margin-top: 50px;
+}
+#section2 button a{
+	text-decoration: none;
+	color: black;
+}
 #section3{
 	float: right;
-	margin-top: 150px;
+	margin-top: 200px;
 	margin-right: 50px;
 }
 #section3 button{
@@ -58,17 +61,13 @@ body{
 	border: 0;
 	background-color: #4a90e2;
 }
-#section3 button a{
-	text-decoration: none;
-	color: white;
-}
-.img{
-	width: 400px;
-	margin-top: 45px;
+.img1{
+	width: 300px;
+	margin-top: -100px;
+	float: right;
+	margin-right: -250px;
 }
 .img2{
-	width: 200px;
-	float: right;
-	margin-top: -60px;
-	margin-right: -230px;
+	width: 300px;
+	margin-top: 30px;
 }

@@ -13,8 +13,8 @@ body{
 	margin-right: 50px;
 }
 #section1{
-	margin-left: 480px;
-	margin-top: 50px;
+	margin-left: 450px;
+	margin-top: 30px;
 }
 #section1 button{
  	display: inline;
@@ -29,7 +29,7 @@ body{
 }
 #sec{
 	margin-top: 50px;
-	margin-left: 500px;
+	margin-left: 250px;
 }
 #sec h1{
 	font-size: 36pt;
@@ -41,15 +41,15 @@ body{
 	color: white;
 }
 #section2 p{
-	text-align: center;
-	margin-top: 60px;
+	margin-top: 30px;
+	margin-left: 250px;
 	font-size: 14pt;
  	font-family: arial, san serif;
 }
 
 #section3{
 	float: right;
-	margin-top: 150px;
+	margin-top: -10px;
 	margin-right: 50px;
 }
 #section3 button{
@@ -62,13 +62,13 @@ body{
 	text-decoration: none;
 	color: white;
 }
-.img{
-	width: 400px;
-	margin-top: 45px;
+.img1{
+	width: 200px;
+	margin-top: -80px;
 }
 .img2{
 	width: 200px;
-	float: right;
-	margin-top: -60px;
+	float:right;
+	margin-top: -210px;
 	margin-right: -230px;
 }
