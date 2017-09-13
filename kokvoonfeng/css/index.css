@@ -1,0 +1,25 @@
+.box2{
+	padding-top: 40px;
+	width: 80%;
+	margin: auto;
+}
+#background2{
+	background:url(../image/cat4.png)no-repeat;
+	background-size: 100%;
+	width: 100%;
+}
+.font1a{
+	width: 350px;
+}
+.font2a{
+	font-size: 1.5em;
+	font-family:Segoe UI Black;
+	color: black;
+}
+.image2a{
+	width: 430px;
+}
+.image2b{
+	float: right;
+	width: 460px;
+}

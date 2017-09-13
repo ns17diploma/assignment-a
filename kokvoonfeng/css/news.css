@@ -1,0 +1,27 @@
+.box2{
+	padding-top: 40px;
+	width: 80%;
+	margin: auto;
+}
+#background2{
+	background:url(../image/cat7.jpg)no-repeat;
+	background-size: 100%;
+	width: 100%;
+}
+.font1a{
+	width: 350px;
+}
+.font2a{
+	font-size: 3em;
+	font-family:Segoe UI Black;
+	color: white;
+	text-align: center;
+}
+.font2b{
+	font-size: 1.5em;
+	font-family:Segoe UI Black;
+	color: blue;	
+}
+.image2{
+	width: 400px;
+}
