@@ -1,0 +1,73 @@
+body{
+	background-color: black;
+	color: white;
+	width: 90%;
+	border: 1px solid white;
+	margin: auto;
+	margin-top: 80px;
+	height: 600px;
+}
+.img3{
+	width: 200px;
+	float: right;
+	margin-right: 50px;
+}
+#section1{
+	margin-left: 450px;
+	margin-top: 30px;
+}
+#section1 button{
+ 	display: inline;
+ 	padding: 10px 30px;
+	background-color: pink;
+	border-radius:5px;
+	border: 0;
+}
+#section1 button a{
+	text-decoration: none;
+	color: white;
+}
+#sec{
+	margin-top: 50px;
+	margin-left: 400px;
+}
+#sec h1{
+	font-size: 36pt;
+	font-family: bold;
+	font-style: serif;
+}
+#sec h1 a{
+	text-decoration: none;
+	color: white;
+}
+#section2 p{
+	margin-top: 60px;
+	margin-left: 180px;
+	font-size: 14pt;
+ 	font-family: arial, san serif;
+}
+#section3{
+	float: right;
+	margin-top: 15px;
+	margin-right: 50px;
+}
+#section3 button{
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: 0;
+	background-color: #4a90e2;
+}
+#section3 button a{
+	text-decoration: none;
+	color: white;
+}
+.img{
+	width: 200px;
+	margin-top: -100px;
+}
+.img2{
+	width: 200px;
+	float: right;
+	margin-top: -210px;
+	margin-right: -290px;
+}

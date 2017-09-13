@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	width: 100%;
 }
 #sec01{
 	height: 1000px;
@@ -11,9 +12,15 @@ body{
 }
 #width01{
 	width: 400px;
-	height: 60px;
+	height: 100px;
 	
 
+}
+button{
+	background-color: white;
+	border-radius: 20px 20px;
+	width: 100px;
+	height: 60px;
 }
 #nav01 ul li{
 	display: inline-block;
@@ -35,6 +42,19 @@ body{
 	top: 150px;
 	
 
+}
+#pic1{
+	position: relative;
+	height: 200px;
+	bottom: -150px;
+	right: -180px;
+
+}
+#pic2{
+	position: relative;
+	height: 250px;
+	right: -200px;
+	bottom: -180px;
 }
 #mid01{
 	
